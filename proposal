@@ -1,0 +1,41 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+Lovelace Cookie Crunch Game
+TODO
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+A cookie clicking game with Ada Lovelace's face.
+TODO
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+A game based on the original cookie clicker game. It is created using pygame. The goal of the game is to produce as many cookies as you can. We would like to use Ada Lovelace's face instead of a cookie in order for this project to be unique. 
+TODO
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+Not applicable
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+I am collaborating with Luis Bramon. 
+Tun63723@temple.edu
+His TA is Daniel Blitshtein.
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+A good outcome of this project is that, even if it is simple, it is a new skill learned for the both of us compared to not knowing the basics of python from the beginning of the semester. 
+TODO
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+A better outcome will be being able to program using pygame. 
+TODO
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+The best outcome for this project is being able to program a game by ourselves.
+TODO
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+Our next steps is to download pygame and learn how to use it. We will need to research more about the original cookie clicker game. I will create a game loop. Luis will create the cookie class. I will be in charge of creating and updating cookies. Luis will be in charge of capping the frame rate and ending the game. 
+TODO
